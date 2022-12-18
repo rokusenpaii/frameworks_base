@@ -90,7 +90,7 @@
                         android:singleLine="true"
                         android:paddingStart="@dimen/status_bar_left_clock_starting_padding"
                         android:paddingEnd="@dimen/status_bar_left_clock_end_padding"
-                        android:gravity="center_vertical|start"
+                        android:gravity="center"
                     />
 
                     <include layout="@layout/ongoing_call_chip" />
